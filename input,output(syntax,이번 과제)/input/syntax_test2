@@ -1,0 +1,8 @@
+int test(int val,int count,int time)
+{
+    int play()
+    {
+        int place;
+    }
+    return 0;
+}

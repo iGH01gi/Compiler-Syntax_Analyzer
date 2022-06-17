@@ -1,0 +1,11 @@
+<VTYPE,int>
+<ID,main>
+<L_PAREN,(>
+<R_PAREN,)>
+<L_BRACKET,{>
+<VTYPE,int>
+<ID,a>
+<ASSIGNMENT_OP,=>
+<SIGNED_INTEGER,3>
+<SEMI,;>
+<R_BRACKET,}>

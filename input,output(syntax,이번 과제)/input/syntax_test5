@@ -1,0 +1,14 @@
+int test(){
+    int a;
+    return a;
+}
+
+int main(int input)
+{
+     if(a==1)
+    {
+        a=1+1;
+    }
+    
+    return 1;
+}

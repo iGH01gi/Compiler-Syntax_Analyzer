@@ -1,0 +1,1 @@
+여깄는 것들은 test1빼고는 전부 lexical 과정에서 error가 생기는것이기 때문에 lexical analyzer를 테스트용 input과 output입니다

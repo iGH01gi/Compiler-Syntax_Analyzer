@@ -1,0 +1,11 @@
+<VTYPE,int>
+<ID,func>
+<L_PAREN,(>
+<VTYPE,int>
+<ID,a>
+<R_PAREN,)>
+<L_BRACKET,{>
+<KEYWORD,return>
+<SIGNED_INTEGER,0>
+<SEMI,;>
+<R_BRACKET,}>

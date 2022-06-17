@@ -1,0 +1,23 @@
+int a;
+int b;
+int test(int val,int count,int time)
+{
+    char box;
+    box="hello world";
+    val=((1+a)*first);
+    time=((2*3)*777+b);
+    if(a==1)
+    {
+        a=1+1;
+    }
+    else
+    {
+        box="random";
+    }
+    return 0;
+}
+
+int main(int input)
+{
+    return 0;
+}

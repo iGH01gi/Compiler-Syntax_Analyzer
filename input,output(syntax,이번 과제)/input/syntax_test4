@@ -1,0 +1,13 @@
+char test(int a)
+{
+    if(a==1)
+    {
+        a=1+1;
+    }
+    else
+    {
+        box="random";
+   
+
+    return c;
+}
